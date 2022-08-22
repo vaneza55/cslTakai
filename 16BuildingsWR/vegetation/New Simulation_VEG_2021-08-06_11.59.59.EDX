@@ -1,0 +1,52 @@
+<ENVI-MET_Datafile>
+<Header>
+<filetype>EDX ENVI-met Simulation Data Definition</filetype>
+<version>101</version>
+<revisiondate>2022/05/25 6:52:10</revisiondate>
+<remark>This file links to the EDT file of the same name</remark>
+<checksum>0</checksum>
+<encryptionlevel>0</encryptionlevel>
+</Header>
+  <datadescription>
+     <data_type> 2 </data_type>
+     <data_content> 6 </data_content>
+     <data_zorientation> 0 </data_zorientation>
+     <data_health_status> 0 </data_health_status>
+     <data_spatial_dim> 3 </data_spatial_dim>
+     <nr_xdata> 50 </nr_xdata>
+     <nr_ydata> 50 </nr_ydata>
+     <nr_zdata> 24 </nr_zdata>
+     <spacing_x> 2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000 </spacing_x>
+     <spacing_y> 2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000 </spacing_y>
+     <spacing_z> 0.40000,0.40000,0.40000,0.40000,0.40000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000,2.00000 </spacing_z>
+  </datadescription>
+  <variables>
+     <Data_per_variable> 1 </Data_per_variable>
+     <nr_variables> 30 </nr_variables>
+     <name_variables> Objects ( ),Plant Index ( ),Plant Type ID (),Flow u (m/s),Flow v (m/s),Flow w (m/s),Wind Speed at Vegetation (m/s),Wind Speed Change at Vegetation (%),Wind Direction at Vegetation (deg),Local Drag at Vegetation (N/m3),Horizontal Drag at Vegetation (N),Horizontal Drag at Vegetation Vertical Sum (N),Air Temperature at Vegetation (ÅãC),Spec. Humidity at Vegetation (g/kg),Relative Humidity at Vegetation (%),TKE at Vegetation (m2/m3),Vegetation LAD (m2/m3),Direct SW Radiation (W/m2),Diffuse SW Radiation (W/m2),Reflected SW Radiation (W/m2),Mean Radiant Temperature (ÅãC),Temperature Flux (K*m/s),Vapour Flux (g/kg*m/s),Water on Leafes (g/m2),Leaf Temperature (ÅãC),Aerodynamic Resistance (s/m),Stomata Resistance (s/m),Plant CO2 Flux (mg/(m2*s)),Plant Isoprene Flux (mg/cell*h),PAR (micro mol m-2 s-1) </name_variables>
+  </variables>
+  <modeldescription>
+     <title> New Simulation 11.59.59 06.08.2021 </title>
+     <simulation_basename> New Simulation_VEG_ </simulation_basename>
+     <simulation_date> 06.08.2021 </simulation_date>
+     <simulation_time> 11.59.59 </simulation_time>
+     <projectname> Grid4Scale2 </projectname>
+     <locationname> Kyoto, Japan </locationname>
+     <model_rotation> 0.00000 </model_rotation>
+     <location_georef_lat> 35.01000 </location_georef_lat>
+     <location_georef_lon> 135.77000 </location_georef_lon>
+     <locationname> Kyoto, Japan </locationname>
+     <location_georef_xy_utmzone> 53 </location_georef_xy_utmzone>
+     <location_georef_x> 570256.68750 </location_georef_x>
+     <location_georef_y> 3874422.75000 </location_georef_y>
+  </modeldescription>
+  <envi-met_reference>
+     <envi-met_version> ENVI-metR V5.0.2 Winter21 c ENVI_MET GmbH Essen, 1997-2021 </envi-met_version>
+     <envi-met_GUID> DESKTOP-CV8HJPU_2022/05/25_6.08.45 </envi-met_GUID>
+     <licenseholder> kojiro Kashiwa </licenseholder>
+  </envi-met_reference>
+  <additional_info>
+     <sunposition> 170.53056 </sunposition>
+     <windinflow> 90.00000 </windinflow>
+  </additional_info>
+</ENVI-MET_Datafile>

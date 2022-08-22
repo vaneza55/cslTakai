@@ -1,0 +1,7 @@
+Facade BaseOrientation,actOrientation (deg),ElementCount (n),ElementSurface (m2),GreenElementCount (n),GreenSurfaceCount(m2)
+Facade_0deg/North,0.0000,0,0.00,0,0.00
+Facade_90deg/East,90.0000,0,0.00,0,0.00
+Facade_180deg/South,180.0000,0,0.00,0,0.00
+Facade_270deg/West,270.0000,0,0.00,0,0.00
+Roof  Up,0,0.00,0,0.00
+Overhang  Down,0,0.00,-999,-999

@@ -1,0 +1,4492 @@
+<ENVI-MET_Datafile>
+<Header>
+<filetype>SLDX LEONARDO Speciallayer Definition file</filetype>
+<version>1</version>
+<revisiondate>2022/05/25 6:17:57</revisiondate>
+<remark>Automatically generated from Plant3D Database</remark>
+<checksum>0</checksum>
+<encryptionlevel>0</encryptionlevel>
+</Header>
+  <SLD_element>
+     <ID> 9000 </ID>
+     <title> Spherical, small trunk, dense, medium (15m) </title>
+     <color2D> 0 </color2D>
+     <color3D> 0 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> New Deciduous Trees|LAD high|Spherical </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9001 </ID>
+     <title> Spherical, small trunk, dense, large (25m) </title>
+     <color2D> 0 </color2D>
+     <color3D> 0 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> New Deciduous Trees|LAD high|Spherical </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9002 </ID>
+     <title> Spherical, small trunk, dense, small (5m) </title>
+     <color2D> 0 </color2D>
+     <color3D> 0 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> New Deciduous Trees|LAD high|Spherical </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9003 </ID>
+     <title> Spherical, medium trunk, dense, small (5m) </title>
+     <color2D> 0 </color2D>
+     <color3D> 0 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> New Deciduous Trees|LAD high|Spherical </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9004 </ID>
+     <title> Spherical, large trunk, dense, small (5m) </title>
+     <color2D> 0 </color2D>
+     <color3D> 0 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> New Deciduous Trees|LAD high|Spherical </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9005 </ID>
+     <title> Spherical, medium trunk, dense, medium (15m) </title>
+     <color2D> 0 </color2D>
+     <color3D> 0 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> New Deciduous Trees|LAD high|Spherical </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9006 </ID>
+     <title> Spherical, medium trunk, dense, large (25m) </title>
+     <color2D> 0 </color2D>
+     <color3D> 0 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> New Deciduous Trees|LAD high|Spherical </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9007 </ID>
+     <title> Spherical, large trunk, dense, medium (15m) </title>
+     <color2D> 0 </color2D>
+     <color3D> 0 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> New Deciduous Trees|LAD high|Spherical </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9008 </ID>
+     <title> Spherical, large trunk, dense, large (25m) </title>
+     <color2D> 0 </color2D>
+     <color3D> 0 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> New Deciduous Trees|LAD high|Spherical </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9009 </ID>
+     <title> Cylindric, small trunk, dense, large (25m) </title>
+     <color2D> 0 </color2D>
+     <color3D> 0 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> New Deciduous Trees|LAD high|Cylindric </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9010 </ID>
+     <title> Cylindric, large trunk, dense, large (25m) </title>
+     <color2D> 0 </color2D>
+     <color3D> 0 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> New Deciduous Trees|LAD high|Cylindric </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9011 </ID>
+     <title> Cylindric, small trunk, dense, small (5m) </title>
+     <color2D> 0 </color2D>
+     <color3D> 0 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> New Deciduous Trees|LAD high|Cylindric </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9012 </ID>
+     <title> Cylindric, small trunk, dense, medium (15m) </title>
+     <color2D> 0 </color2D>
+     <color3D> 0 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> New Deciduous Trees|LAD high|Cylindric </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9013 </ID>
+     <title> Cylindric, medium trunk, dense, medium (15m) </title>
+     <color2D> 0 </color2D>
+     <color3D> 0 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> New Deciduous Trees|LAD high|Cylindric </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9014 </ID>
+     <title> Cylindric, medium trunk, dense, small (5m) </title>
+     <color2D> 0 </color2D>
+     <color3D> 0 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> New Deciduous Trees|LAD high|Cylindric </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9015 </ID>
+     <title> Cylindric, medium trunk, dense, large (25m) </title>
+     <color2D> 0 </color2D>
+     <color3D> 0 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> New Deciduous Trees|LAD high|Cylindric </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9016 </ID>
+     <title> Cylindric, large trunk, dense, medium (15m) </title>
+     <color2D> 0 </color2D>
+     <color3D> 0 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> New Deciduous Trees|LAD high|Cylindric </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9017 </ID>
+     <title> Cylindric, large trunk, dense, small (5m) </title>
+     <color2D> 0 </color2D>
+     <color3D> 0 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> New Deciduous Trees|LAD high|Cylindric </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9018 </ID>
+     <title> Heart-shaped, large trunk, dense, large (25m) </title>
+     <color2D> 0 </color2D>
+     <color3D> 0 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> New Deciduous Trees|LAD high|Heart-shaped </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9019 </ID>
+     <title> Heart-shaped, large trunk, dense, medium (15m) </title>
+     <color2D> 0 </color2D>
+     <color3D> 0 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> New Deciduous Trees|LAD high|Heart-shaped </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9020 </ID>
+     <title> Heart-shaped, large trunk, dense, small (5m) </title>
+     <color2D> 0 </color2D>
+     <color3D> 0 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> New Deciduous Trees|LAD high|Heart-shaped </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9021 </ID>
+     <title> Heart-shaped, medium trunk, dense, large (25m) </title>
+     <color2D> 0 </color2D>
+     <color3D> 0 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> New Deciduous Trees|LAD high|Heart-shaped </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9022 </ID>
+     <title> Heart-shaped, medium trunk, dense, medium (15m) </title>
+     <color2D> 0 </color2D>
+     <color3D> 0 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> New Deciduous Trees|LAD high|Heart-shaped </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9023 </ID>
+     <title> Heart-shaped, medium trunk, dense, small (5m) </title>
+     <color2D> 0 </color2D>
+     <color3D> 0 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> New Deciduous Trees|LAD high|Heart-shaped </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9024 </ID>
+     <title> Heart-shaped, small trunk, dense, large (25m) </title>
+     <color2D> 0 </color2D>
+     <color3D> 0 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> New Deciduous Trees|LAD high|Heart-shaped </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9025 </ID>
+     <title> Heart-shaped, small trunk, dense, small (5m) </title>
+     <color2D> 0 </color2D>
+     <color3D> 0 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> New Deciduous Trees|LAD high|Heart-shaped </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9026 </ID>
+     <title> Heart-shaped, small trunk, dense, medium (15m) </title>
+     <color2D> 0 </color2D>
+     <color3D> 0 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> New Deciduous Trees|LAD high|Heart-shaped </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9027 </ID>
+     <title> Spherical, small trunk, sparse, medium (15m) </title>
+     <color2D> 0 </color2D>
+     <color3D> 0 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> New Deciduous Trees|LAD low|Spherical </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9028 </ID>
+     <title> Spherical, small trunk, sparse, large (25m) </title>
+     <color2D> 0 </color2D>
+     <color3D> 0 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> New Deciduous Trees|LAD low|Spherical </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9029 </ID>
+     <title> Spherical, small trunk, sparse, small (5m) </title>
+     <color2D> 0 </color2D>
+     <color3D> 0 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> New Deciduous Trees|LAD low|Spherical </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9030 </ID>
+     <title> Spherical, medium trunk, sparse, small (5m) </title>
+     <color2D> 0 </color2D>
+     <color3D> 0 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> New Deciduous Trees|LAD low|Spherical </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9031 </ID>
+     <title> Spherical, large trunk, sparse, small (5m) </title>
+     <color2D> 0 </color2D>
+     <color3D> 0 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> New Deciduous Trees|LAD low|Spherical </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9032 </ID>
+     <title> Spherical, medium trunk, sparse, medium (15m) </title>
+     <color2D> 0 </color2D>
+     <color3D> 0 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> New Deciduous Trees|LAD low|Spherical </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9033 </ID>
+     <title> Spherical, medium trunk, sparse, large (25m) </title>
+     <color2D> 0 </color2D>
+     <color3D> 0 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> New Deciduous Trees|LAD low|Spherical </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9034 </ID>
+     <title> Spherical, large trunk, sparse, medium (15m) </title>
+     <color2D> 0 </color2D>
+     <color3D> 0 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> New Deciduous Trees|LAD low|Spherical </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9035 </ID>
+     <title> Spherical, large trunk, sparse, large (25m) </title>
+     <color2D> 0 </color2D>
+     <color3D> 0 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> New Deciduous Trees|LAD low|Spherical </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9036 </ID>
+     <title> Cylindric, small trunk, sparse, large (25m) </title>
+     <color2D> 0 </color2D>
+     <color3D> 0 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> New Deciduous Trees|LAD low|Cylindric </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9037 </ID>
+     <title> Cylindric, large trunk, sparse, large (25m) </title>
+     <color2D> 0 </color2D>
+     <color3D> 0 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> New Deciduous Trees|LAD low|Cylindric </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9038 </ID>
+     <title> Cylindric, small trunk, sparse, small (5m) </title>
+     <color2D> 0 </color2D>
+     <color3D> 0 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> New Deciduous Trees|LAD low|Cylindric </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9039 </ID>
+     <title> Cylindric, small trunk, sparse, medium (15m) </title>
+     <color2D> 0 </color2D>
+     <color3D> 0 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> New Deciduous Trees|LAD low|Cylindric </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9040 </ID>
+     <title> Cylindric, medium trunk, sparse, medium (15m) </title>
+     <color2D> 0 </color2D>
+     <color3D> 0 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> New Deciduous Trees|LAD low|Cylindric </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9041 </ID>
+     <title> Cylindric, medium trunk, sparse, small (5m) </title>
+     <color2D> 0 </color2D>
+     <color3D> 0 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> New Deciduous Trees|LAD low|Cylindric </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9042 </ID>
+     <title> Cylindric, medium trunk, sparse, large (25m) </title>
+     <color2D> 0 </color2D>
+     <color3D> 0 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> New Deciduous Trees|LAD low|Cylindric </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9043 </ID>
+     <title> Cylindric, large trunk, sparse, medium (15m) </title>
+     <color2D> 0 </color2D>
+     <color3D> 0 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> New Deciduous Trees|LAD low|Cylindric </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9044 </ID>
+     <title> Cylindric, large trunk, sparse, small (5m) </title>
+     <color2D> 0 </color2D>
+     <color3D> 0 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> New Deciduous Trees|LAD low|Cylindric </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9045 </ID>
+     <title> Heart-shaped, large trunk, sparse, large (25m) </title>
+     <color2D> 0 </color2D>
+     <color3D> 0 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> New Deciduous Trees|LAD low|Heart-shaped </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9046 </ID>
+     <title> Heart-shaped, large trunk, sparse, medium (15m) </title>
+     <color2D> 0 </color2D>
+     <color3D> 0 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> New Deciduous Trees|LAD low|Heart-shaped </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9047 </ID>
+     <title> Heart-shaped, large trunk, sparse, small (5m) </title>
+     <color2D> 0 </color2D>
+     <color3D> 0 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> New Deciduous Trees|LAD low|Heart-shaped </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9048 </ID>
+     <title> Heart-shaped, medium trunk, sparse, large (25m) </title>
+     <color2D> 0 </color2D>
+     <color3D> 0 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> New Deciduous Trees|LAD low|Heart-shaped </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9049 </ID>
+     <title> Heart-shaped, medium trunk, sparse, medium (15m) </title>
+     <color2D> 0 </color2D>
+     <color3D> 0 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> New Deciduous Trees|LAD low|Heart-shaped </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9050 </ID>
+     <title> Heart-shaped, medium trunk, sparse, small (5m) </title>
+     <color2D> 0 </color2D>
+     <color3D> 0 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> New Deciduous Trees|LAD low|Heart-shaped </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9051 </ID>
+     <title> Heart-shaped, small trunk, sparse, large (25m) </title>
+     <color2D> 0 </color2D>
+     <color3D> 0 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> New Deciduous Trees|LAD low|Heart-shaped </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9052 </ID>
+     <title> Heart-shaped, small trunk, sparse, small (5m) </title>
+     <color2D> 0 </color2D>
+     <color3D> 0 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> New Deciduous Trees|LAD low|Heart-shaped </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9053 </ID>
+     <title> Heart-shaped, small trunk, sparse, medium (15m) </title>
+     <color2D> 0 </color2D>
+     <color3D> 0 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> New Deciduous Trees|LAD low|Heart-shaped </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9054 </ID>
+     <title> Conic, large trunk, dense, large (25m) </title>
+     <color2D> 0 </color2D>
+     <color3D> 0 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> New Conifers|LAD high|Conic </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9055 </ID>
+     <title> Cylindric, small trunk, dense, small (5m) </title>
+     <color2D> 0 </color2D>
+     <color3D> 0 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> New Conifers|LAD high|Cylindric </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9056 </ID>
+     <title> Conic, medium trunk, dense, medium (15m) </title>
+     <color2D> 0 </color2D>
+     <color3D> 0 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> New Conifers|LAD high|Conic </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9057 </ID>
+     <title> Conic, medium trunk, dense, small (5m) </title>
+     <color2D> 0 </color2D>
+     <color3D> 0 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> New Conifers|LAD high|Conic </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9058 </ID>
+     <title> Conic, large trunk, dense, small (5m) </title>
+     <color2D> 0 </color2D>
+     <color3D> 0 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> New Conifers|LAD high|Conic </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9059 </ID>
+     <title> Conic, medium trunk, dense, large (25m) </title>
+     <color2D> 0 </color2D>
+     <color3D> 0 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> New Conifers|LAD high|Conic </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9060 </ID>
+     <title> Conic, large trunk, dense, medium (15m) </title>
+     <color2D> 0 </color2D>
+     <color3D> 0 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> New Conifers|LAD high|Conic </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9061 </ID>
+     <title> Conic, small trunk, dense, large (25m) </title>
+     <color2D> 0 </color2D>
+     <color3D> 0 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> New Conifers|LAD high|Conic </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9062 </ID>
+     <title> Conic, small trunk, dense, medium (15m) </title>
+     <color2D> 0 </color2D>
+     <color3D> 0 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> New Conifers|LAD high|Conic </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9063 </ID>
+     <title> Conic, small trunk, dense, small (5m) </title>
+     <color2D> 0 </color2D>
+     <color3D> 0 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> New Conifers|LAD high|Conic </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9064 </ID>
+     <title> Cylindric, large trunk, dense, large (25m) </title>
+     <color2D> 0 </color2D>
+     <color3D> 0 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> New Conifers|LAD high|Cylindric </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9065 </ID>
+     <title> Cylindric, small trunk, dense, large (25m) </title>
+     <color2D> 0 </color2D>
+     <color3D> 0 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> New Conifers|LAD high|Cylindric </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9066 </ID>
+     <title> Cylindric, medium trunk, dense, large (25m) </title>
+     <color2D> 0 </color2D>
+     <color3D> 0 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> New Conifers|LAD high|Cylindric </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9067 </ID>
+     <title> Cylindric, medium trunk, dense, medium (15m) </title>
+     <color2D> 0 </color2D>
+     <color3D> 0 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> New Conifers|LAD high|Cylindric </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9068 </ID>
+     <title> Cylindric, medium trunk, dense, small (5m) </title>
+     <color2D> 0 </color2D>
+     <color3D> 0 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> New Conifers|LAD high|Cylindric </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9069 </ID>
+     <title> Cylindric, large trunk, dense, small (5m) </title>
+     <color2D> 0 </color2D>
+     <color3D> 0 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> New Conifers|LAD high|Cylindric </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9070 </ID>
+     <title> Cylindric, small trunk, dense, medium (15m) </title>
+     <color2D> 0 </color2D>
+     <color3D> 0 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> New Conifers|LAD high|Cylindric </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9071 </ID>
+     <title> Cylindric, large trunk, dense, medium (15m) </title>
+     <color2D> 0 </color2D>
+     <color3D> 0 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> New Conifers|LAD high|Cylindric </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9072 </ID>
+     <title> Conic, large trunk, sparse, large (25m) </title>
+     <color2D> 0 </color2D>
+     <color3D> 0 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> New Conifers|LAD low|Conic </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9073 </ID>
+     <title> Cylindric, small trunk, sparse, small (5m) </title>
+     <color2D> 0 </color2D>
+     <color3D> 0 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> New Conifers|LAD low|Cylindric </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9074 </ID>
+     <title> Conic, medium trunk, sparse, medium (15m) </title>
+     <color2D> 0 </color2D>
+     <color3D> 0 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> New Conifers|LAD low|Conic </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9075 </ID>
+     <title> Conic, medium trunk, sparse, small (5m) </title>
+     <color2D> 0 </color2D>
+     <color3D> 0 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> New Conifers|LAD low|Conic </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9076 </ID>
+     <title> Conic, large trunk, sparse, small (5m) </title>
+     <color2D> 0 </color2D>
+     <color3D> 0 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> New Conifers|LAD low|Conic </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9077 </ID>
+     <title> Conic, medium trunk, sparse, large (25m) </title>
+     <color2D> 0 </color2D>
+     <color3D> 0 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> New Conifers|LAD low|Conic </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9078 </ID>
+     <title> Conic, large trunk, sparse, medium (15m) </title>
+     <color2D> 0 </color2D>
+     <color3D> 0 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> New Conifers|LAD low|Conic </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9079 </ID>
+     <title> Conic, small trunk, sparse, large (25m) </title>
+     <color2D> 0 </color2D>
+     <color3D> 0 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> New Conifers|LAD low|Conic </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9080 </ID>
+     <title> Conic, small trunk, sparse, medium (15m) </title>
+     <color2D> 0 </color2D>
+     <color3D> 0 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> New Conifers|LAD low|Conic </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9081 </ID>
+     <title> Conic, small trunk, sparse, small (5m) </title>
+     <color2D> 0 </color2D>
+     <color3D> 0 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> New Conifers|LAD low|Conic </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9082 </ID>
+     <title> Cylindric, large trunk, sparse, large (25m) </title>
+     <color2D> 0 </color2D>
+     <color3D> 0 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> New Conifers|LAD low|Cylindric </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9083 </ID>
+     <title> Cylindric, small trunk, sparse, large (25m) </title>
+     <color2D> 0 </color2D>
+     <color3D> 0 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> New Conifers|LAD low|Cylindric </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9084 </ID>
+     <title> Cylindric, medium trunk, sparse, large (25m) </title>
+     <color2D> 0 </color2D>
+     <color3D> 0 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> New Conifers|LAD low|Cylindric </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9085 </ID>
+     <title> Cylindric, medium trunk, sparse, medium (15m) </title>
+     <color2D> 0 </color2D>
+     <color3D> 0 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> New Conifers|LAD low|Cylindric </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9086 </ID>
+     <title> Cylindric, medium trunk, sparse, small (5m) </title>
+     <color2D> 0 </color2D>
+     <color3D> 0 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> New Conifers|LAD low|Cylindric </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9087 </ID>
+     <title> Cylindric, large trunk, sparse, small (5m) </title>
+     <color2D> 0 </color2D>
+     <color3D> 0 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> New Conifers|LAD low|Cylindric </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9088 </ID>
+     <title> Cylindric, small trunk, sparse, medium (15m) </title>
+     <color2D> 0 </color2D>
+     <color3D> 0 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> New Conifers|LAD low|Cylindric </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9089 </ID>
+     <title> Cylindric, large trunk, sparse, medium (15m) </title>
+     <color2D> 0 </color2D>
+     <color3D> 0 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> New Conifers|LAD low|Cylindric </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9090 </ID>
+     <title> Palm, large trunk, dense, large (25m) </title>
+     <color2D> 0 </color2D>
+     <color3D> 0 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> Palm Trees|LAD medium </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9091 </ID>
+     <title> Palm, large trunk, dense, medium (15m) </title>
+     <color2D> 0 </color2D>
+     <color3D> 0 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> Palm Trees|LAD medium </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9092 </ID>
+     <title> Palm, small trunk, dense, small (5m) </title>
+     <color2D> 0 </color2D>
+     <color3D> 0 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> Palm Trees|LAD medium </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9093 </ID>
+     <title> Palm, medium trunk, dense, small (5m) </title>
+     <color2D> 0 </color2D>
+     <color3D> 0 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> Palm Trees|LAD medium </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9094 </ID>
+     <title> Palm, large trunk, dense, small (5m) </title>
+     <color2D> 0 </color2D>
+     <color3D> 0 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> Palm Trees|LAD medium </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9095 </ID>
+     <title> Fraxinus Excelsior </title>
+     <color2D> 27648 </color2D>
+     <color3D> 27648 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> - Legacy | Deciduous Trees </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9096 </ID>
+     <title> Fagus Sylvatica </title>
+     <color2D> 27648 </color2D>
+     <color3D> 27648 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> - Legacy | Deciduous Trees </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9097 </ID>
+     <title> Quercus Robur </title>
+     <color2D> 27648 </color2D>
+     <color3D> 27648 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> - Legacy | Deciduous Trees </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9098 </ID>
+     <title> Ulmus Minor </title>
+     <color2D> 27648 </color2D>
+     <color3D> 27648 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> - Legacy | Deciduous Trees </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9099 </ID>
+     <title> Acer Campestre </title>
+     <color2D> 27648 </color2D>
+     <color3D> 27648 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> - Legacy | Deciduous Trees </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9100 </ID>
+     <title> Ulmus × Hollandica </title>
+     <color2D> 27648 </color2D>
+     <color3D> 27648 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> - Legacy | Deciduous Trees </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9101 </ID>
+     <title> Gleditsia Triacanthos </title>
+     <color2D> 27648 </color2D>
+     <color3D> 27648 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> - Legacy | Deciduous Trees </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9102 </ID>
+     <title> Carpinus Betulus </title>
+     <color2D> 27648 </color2D>
+     <color3D> 27648 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> - Legacy | Deciduous Trees </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9103 </ID>
+     <title> Robinia Pseudoacacia </title>
+     <color2D> 27648 </color2D>
+     <color3D> 27648 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> - Legacy | Deciduous Trees </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9104 </ID>
+     <title> Larix Decidua </title>
+     <color2D> 27648 </color2D>
+     <color3D> 27648 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> - Legacy | Conifers </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9105 </ID>
+     <title> Tilia Platyphyllos </title>
+     <color2D> 27648 </color2D>
+     <color3D> 27648 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> - Legacy | Deciduous Trees </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9106 </ID>
+     <title> Picea Abies </title>
+     <color2D> 27648 </color2D>
+     <color3D> 27648 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> - Legacy | Conifers </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9107 </ID>
+     <title> Pine </title>
+     <color2D> 27648 </color2D>
+     <color3D> 27648 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> - Legacy | Conifers </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9108 </ID>
+     <title> Betula Pendula </title>
+     <color2D> 27648 </color2D>
+     <color3D> 27648 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> - Legacy | Deciduous Trees </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9109 </ID>
+     <title> Abies Alba </title>
+     <color2D> 27648 </color2D>
+     <color3D> 27648 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> - Legacy | Conifers </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9110 </ID>
+     <title> Tilia Cordata </title>
+     <color2D> 27648 </color2D>
+     <color3D> 27648 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> - Legacy | Deciduous Trees </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9111 </ID>
+     <title> Acer Platanoides </title>
+     <color2D> 27648 </color2D>
+     <color3D> 27648 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> - Legacy | Deciduous Trees </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9112 </ID>
+     <title> Acer Pseudoplatanus </title>
+     <color2D> 27648 </color2D>
+     <color3D> 27648 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> - Legacy | Deciduous Trees </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9113 </ID>
+     <title> Senegalia Greggii </title>
+     <color2D> 27648 </color2D>
+     <color3D> 27648 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> - Legacy | Deciduous Trees </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9114 </ID>
+     <title> Tamarix Gallica </title>
+     <color2D> 27648 </color2D>
+     <color3D> 27648 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> - Legacy | Conifers </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9115 </ID>
+     <title> Cercis Siliquastrum </title>
+     <color2D> 27648 </color2D>
+     <color3D> 27648 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> - Legacy | Deciduous Trees </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9116 </ID>
+     <title> Palm Washingtonia </title>
+     <color2D> 27648 </color2D>
+     <color3D> 27648 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> - Legacy | Deciduous Trees </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9117 </ID>
+     <title> Fraxinus </title>
+     <color2D> 27648 </color2D>
+     <color3D> 27648 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> - Legacy | Deciduous Trees </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9118 </ID>
+     <title> Tilia </title>
+     <color2D> 27648 </color2D>
+     <color3D> 27648 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> - Legacy | Deciduous Trees </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9119 </ID>
+     <title> Pinus Pinea </title>
+     <color2D> 27648 </color2D>
+     <color3D> 27648 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> - Legacy | Conifers </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9120 </ID>
+     <title> Albizia Julibrissin </title>
+     <color2D> 27648 </color2D>
+     <color3D> 27648 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> - Legacy | Deciduous Trees </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9121 </ID>
+     <title> Acer Negundo </title>
+     <color2D> 27648 </color2D>
+     <color3D> 27648 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> - Legacy | Deciduous Trees </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9122 </ID>
+     <title> Sophora Japonica </title>
+     <color2D> 27648 </color2D>
+     <color3D> 27648 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> - Legacy | Deciduous Trees </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9123 </ID>
+     <title> Platanus × Acerifolia </title>
+     <color2D> 27648 </color2D>
+     <color3D> 27648 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> - Legacy | Deciduous Trees </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9124 </ID>
+     <title> Cypress </title>
+     <color2D> 27648 </color2D>
+     <color3D> 27648 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> - Legacy | Conifers </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9125 </ID>
+     <title> Jacaranda mimosifolia </title>
+     <color2D> 27648 </color2D>
+     <color3D> 27648 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> - Legacy | Deciduous Trees </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9126 </ID>
+     <title> Olea Europaea </title>
+     <color2D> 27648 </color2D>
+     <color3D> 27648 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> - Legacy | Deciduous Trees </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9127 </ID>
+     <title> Privet </title>
+     <color2D> 27648 </color2D>
+     <color3D> 27648 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> - Legacy | Deciduous Trees </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9128 </ID>
+     <title> Citrus x Aurantium </title>
+     <color2D> 27648 </color2D>
+     <color3D> 27648 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> - Legacy | Deciduous Trees </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9129 </ID>
+     <title> Koelreuteria paniculata </title>
+     <color2D> 27648 </color2D>
+     <color3D> 27648 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> - Legacy | Deciduous Trees </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9130 </ID>
+     <title> Populus Nigra </title>
+     <color2D> 27648 </color2D>
+     <color3D> 27648 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> - Legacy | Deciduous Trees </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9131 </ID>
+     <title> Populus Alba </title>
+     <color2D> 27648 </color2D>
+     <color3D> 27648 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> - Legacy | Deciduous Trees </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9132 </ID>
+     <title> DemoTree 9 Iterations </title>
+     <color2D> 6848767 </color2D>
+     <color3D> 6848767 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> DemoTree </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9133 </ID>
+     <title> DemoTree 10 Iterations </title>
+     <color2D> 6848767 </color2D>
+     <color3D> 6848767 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> DemoTree </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9134 </ID>
+     <title> DemoTree 5 Iterations </title>
+     <color2D> 6848767 </color2D>
+     <color3D> 6848767 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> DemoTree </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9135 </ID>
+     <title> DemoTree altern Angle </title>
+     <color2D> 6848767 </color2D>
+     <color3D> 6848767 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> DemoTree </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9136 </ID>
+     <title> Tilia cordata Example </title>
+     <color2D> 6848767 </color2D>
+     <color3D> 6848767 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group>  </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9137 </ID>
+     <title> Pine like Tree </title>
+     <color2D> 6848751 </color2D>
+     <color3D> 6848751 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group>  </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9138 </ID>
+     <title> Field Maple (young) </title>
+     <color2D> 26112 </color2D>
+     <color3D> 26112 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> Field Maple </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9139 </ID>
+     <title> London Plane Tree (old) </title>
+     <color2D> 52224 </color2D>
+     <color3D> 52224 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> Plane Tree </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9140 </ID>
+     <title> Horse Chestnut (old) </title>
+     <color2D> 26163 </color2D>
+     <color3D> 26163 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> Horse Chestnut </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9141 </ID>
+     <title> Common Robinia (old) </title>
+     <color2D> 32768 </color2D>
+     <color3D> 32768 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> Robinia / False Acacia </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9142 </ID>
+     <title> Little Leaf Lime (very old) II </title>
+     <color2D> 26112 </color2D>
+     <color3D> 26112 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> Little Leaf Lime </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9143 </ID>
+     <title> Little Leaf Lime "Rancho" (middle) </title>
+     <color2D> 26112 </color2D>
+     <color3D> 26112 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> Little Leaf Lime Rancho </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9144 </ID>
+     <title> Field Maple "Elsrijk" (young) </title>
+     <color2D> 26112 </color2D>
+     <color3D> 26112 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> Field Maple Elsrijk </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9145 </ID>
+     <title> Red-flowered Horse Chestnut (middle) </title>
+     <color2D> 26163 </color2D>
+     <color3D> 26163 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> Red-flowered Horse Chestnut </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9146 </ID>
+     <title> Tilia Alternative </title>
+     <color2D> 514 </color2D>
+     <color3D> 514 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group>  </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9147 </ID>
+     <title> Field Maple "Elegant" (middle) </title>
+     <color2D> 26112 </color2D>
+     <color3D> 26112 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> Field Maple Elegant </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9148 </ID>
+     <title> Norway Maple (old) </title>
+     <color2D> 52224 </color2D>
+     <color3D> 52224 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> Norway Maple </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9149 </ID>
+     <title> Norway Maple "Cleveland" (middle) </title>
+     <color2D> 52224 </color2D>
+     <color3D> 52224 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> Norway Maple Cleveland </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9150 </ID>
+     <title> Hungarian Oak (middle) </title>
+     <color2D> 26112 </color2D>
+     <color3D> 26112 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> Hungarian Oak </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9151 </ID>
+     <title> Dutch Elm (middle) </title>
+     <color2D> 26112 </color2D>
+     <color3D> 26112 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> Elm </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9152 </ID>
+     <title> Swedisch Whitebeam (middle) </title>
+     <color2D> 26112 </color2D>
+     <color3D> 26112 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> Whitebeam </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9153 </ID>
+     <title> Palm </title>
+     <color2D> 6723891 </color2D>
+     <color3D> 6723891 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group>  </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9154 </ID>
+     <title> Wild Cherry "Plena" (GALK) </title>
+     <color2D> 26112 </color2D>
+     <color3D> 26112 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> Wild Cherry </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9155 </ID>
+     <title> Ginkgo / Fan Leave Tree (old) </title>
+     <color2D> 3407718 </color2D>
+     <color3D> 3407718 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> Ginkgo / Fan Leave Tree </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9156 </ID>
+     <title> American Sweet Gum (middle) </title>
+     <color2D> 26112 </color2D>
+     <color3D> 26112 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> American Sweet Gum </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9157 </ID>
+     <title> American Gleditschie / Leather Sleeve Tree (old) </title>
+     <color2D> 32768 </color2D>
+     <color3D> 32768 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> Gleditschie / Leather Sleeve Tree </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9158 </ID>
+     <title> Flower-/ Manna-Ash (middle) </title>
+     <color2D> 26163 </color2D>
+     <color3D> 26163 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> Flower-/ Manna-Ash </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9159 </ID>
+     <title> Tree Hazel (middle) </title>
+     <color2D> 26112 </color2D>
+     <color3D> 26112 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> Tree Hazel </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9160 </ID>
+     <title> Quaking Aspen (middle) </title>
+     <color2D> 32768 </color2D>
+     <color3D> 32768 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> Quaking Aspen </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9161 </ID>
+     <title> Silver Lime (middle) </title>
+     <color2D> 26112 </color2D>
+     <color3D> 26112 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> Silver Lime </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9162 </ID>
+     <title> Field Maple (middle) </title>
+     <color2D> 26112 </color2D>
+     <color3D> 26112 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> Field Maple </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9163 </ID>
+     <title> Field Maple "Elsrijk" (middle) </title>
+     <color2D> 26112 </color2D>
+     <color3D> 26112 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> Field Maple Elsrijk </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9164 </ID>
+     <title> Hornbeam (old) </title>
+     <color2D> 3381555 </color2D>
+     <color3D> 3381555 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> Hornbeam </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9165 </ID>
+     <title> Apple Tree (middle) </title>
+     <color2D> 3381555 </color2D>
+     <color3D> 3381555 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> Apple Tree </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9166 </ID>
+     <title> Horse Chestnut (middle) </title>
+     <color2D> 26163 </color2D>
+     <color3D> 26163 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> Horse Chestnut </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9167 </ID>
+     <title> Red-flowered Horse Chestnut (young) </title>
+     <color2D> 26163 </color2D>
+     <color3D> 26163 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> Red-flowered Horse Chestnut </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9168 </ID>
+     <title> Dutch Elm (old) </title>
+     <color2D> 26112 </color2D>
+     <color3D> 26112 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> Elm </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9169 </ID>
+     <title> Norway Maple (very old) </title>
+     <color2D> 52224 </color2D>
+     <color3D> 52224 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> Norway Maple </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9170 </ID>
+     <title> Norway Maple "Olmsted" (middle) </title>
+     <color2D> 52224 </color2D>
+     <color3D> 52224 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> Norway Maple Olmsted </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9171 </ID>
+     <title> Norway Maple "Globosum" (middle) </title>
+     <color2D> 52224 </color2D>
+     <color3D> 52224 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> Norway Maple Globosum </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9172 </ID>
+     <title> Red Oak (old) </title>
+     <color2D> 26112 </color2D>
+     <color3D> 26112 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> Red Oak </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9173 </ID>
+     <title> Little Leaf Lime (old) </title>
+     <color2D> 26112 </color2D>
+     <color3D> 26112 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> Little Leaf Lime </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9174 </ID>
+     <title> Hungarian Oak (middle) II </title>
+     <color2D> 26112 </color2D>
+     <color3D> 26112 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> Hungarian Oak </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9175 </ID>
+     <title> Hanging Birch (old) </title>
+     <color2D> 39168 </color2D>
+     <color3D> 39168 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> Birch </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9176 </ID>
+     <title> Hanging Birch 2 (very old) </title>
+     <color2D> 39168 </color2D>
+     <color3D> 39168 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> Birch </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9177 </ID>
+     <title> Little Leaf Lime "Greenspire" (middle) </title>
+     <color2D> 26112 </color2D>
+     <color3D> 26112 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> Little Leaf Lime Greenspire </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9178 </ID>
+     <title> Bluebell Tree (middle) </title>
+     <color2D> 3381555 </color2D>
+     <color3D> 3381555 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> Bluebell Tree </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9179 </ID>
+     <title> Sweet Chestnut/Maron (old) </title>
+     <color2D> 3381555 </color2D>
+     <color3D> 3381555 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> Sweet Chestnut / Maron </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9180 </ID>
+     <title> Sycamore Maple (middle) </title>
+     <color2D> 26112 </color2D>
+     <color3D> 26112 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> Sycamore Maple </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9181 </ID>
+     <title> Pendunculate Oak (old) </title>
+     <color2D> 26112 </color2D>
+     <color3D> 26112 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> Pendunculate Oak </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9182 </ID>
+     <title> Silver Maple (old) </title>
+     <color2D> 26112 </color2D>
+     <color3D> 26112 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> Silver Maple </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9183 </ID>
+     <title> Tree of Heaven (old) </title>
+     <color2D> 39168 </color2D>
+     <color3D> 39168 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> Tree of Heaven </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9184 </ID>
+     <title> Spaeth's Alder (middle) </title>
+     <color2D> 26112 </color2D>
+     <color3D> 26112 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> Alder </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9185 </ID>
+     <title> White Willow (old) </title>
+     <color2D> 3381555 </color2D>
+     <color3D> 3381555 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> White Willow </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9186 </ID>
+     <title> Rowan (young) </title>
+     <color2D> 32768 </color2D>
+     <color3D> 32768 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group>  </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9187 </ID>
+     <title> Pine Tree (middle) </title>
+     <color2D> 13056 </color2D>
+     <color3D> 13056 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> Pine </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9188 </ID>
+     <title> Primeval Sequioa (old) </title>
+     <color2D> 13056 </color2D>
+     <color3D> 13056 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> Primeval Sequioa </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9189 </ID>
+     <title> Tree Hazel (young) </title>
+     <color2D> 26112 </color2D>
+     <color3D> 26112 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> Tree Hazel </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9190 </ID>
+     <title> Rowan (middle) </title>
+     <color2D> 32768 </color2D>
+     <color3D> 32768 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group>  </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9191 </ID>
+     <title> Spaeth's Alder (young) </title>
+     <color2D> 26112 </color2D>
+     <color3D> 26112 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> Alder </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9192 </ID>
+     <title> Spaeth's Alder (old) </title>
+     <color2D> 26112 </color2D>
+     <color3D> 26112 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> Alder </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9193 </ID>
+     <title> Sycamore Maple (old) </title>
+     <color2D> 26112 </color2D>
+     <color3D> 26112 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> Sycamore Maple </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9194 </ID>
+     <title> Sycamore Maple (young) </title>
+     <color2D> 26112 </color2D>
+     <color3D> 26112 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> Sycamore Maple </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9195 </ID>
+     <title> American Sweet Gum (young) </title>
+     <color2D> 26112 </color2D>
+     <color3D> 26112 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> American Sweet Gum </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9196 </ID>
+     <title> Field Maple (old) </title>
+     <color2D> 26112 </color2D>
+     <color3D> 26112 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> Field Maple </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9197 </ID>
+     <title> Common Ash (young) </title>
+     <color2D> 26112 </color2D>
+     <color3D> 26112 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> Ash </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9198 </ID>
+     <title> Common Ash (middle) </title>
+     <color2D> 26112 </color2D>
+     <color3D> 26112 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> Ash </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9199 </ID>
+     <title> Common Ash (old) </title>
+     <color2D> 26112 </color2D>
+     <color3D> 26112 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> Ash </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9200 </ID>
+     <title> Ginkgo / Fan Leave Tree (middle) </title>
+     <color2D> 3407718 </color2D>
+     <color3D> 3407718 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> Ginkgo / Fan Leave Tree </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9201 </ID>
+     <title> Ginkgo / Fan Leave Tree (young) </title>
+     <color2D> 3407718 </color2D>
+     <color3D> 3407718 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> Ginkgo / Fan Leave Tree </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9202 </ID>
+     <title> Hornbeam (middle) </title>
+     <color2D> 3381555 </color2D>
+     <color3D> 3381555 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> Hornbeam </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9203 </ID>
+     <title> Hornbeam (young) </title>
+     <color2D> 3381555 </color2D>
+     <color3D> 3381555 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> Hornbeam </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9204 </ID>
+     <title> London Plane Tree (middle) </title>
+     <color2D> 52224 </color2D>
+     <color3D> 52224 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> Plane Tree </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9205 </ID>
+     <title> London Plane Tree (young) </title>
+     <color2D> 52224 </color2D>
+     <color3D> 52224 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> Plane Tree </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9206 </ID>
+     <title> Red Oak (middle) </title>
+     <color2D> 26112 </color2D>
+     <color3D> 26112 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> Red Oak </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9207 </ID>
+     <title> Horse Chestnut (young) </title>
+     <color2D> 26163 </color2D>
+     <color3D> 26163 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> Horse Chestnut </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9208 </ID>
+     <title> Red-flowered Horse Chestnut (old) </title>
+     <color2D> 26163 </color2D>
+     <color3D> 26163 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> Red-flowered Horse Chestnut </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9209 </ID>
+     <title> Norway Maple (middle) </title>
+     <color2D> 52224 </color2D>
+     <color3D> 52224 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> Norway Maple </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9210 </ID>
+     <title> Norway Maple (young) </title>
+     <color2D> 52224 </color2D>
+     <color3D> 52224 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> Norway Maple </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9211 </ID>
+     <title> Pendunculate Oak (GALK) </title>
+     <color2D> 26112 </color2D>
+     <color3D> 26112 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> Pendunculate Oak </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9212 </ID>
+     <title> Pendunculate Oak (middle) </title>
+     <color2D> 26112 </color2D>
+     <color3D> 26112 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> Pendunculate Oak </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9213 </ID>
+     <title> Pendunculate Oak (young) </title>
+     <color2D> 26112 </color2D>
+     <color3D> 26112 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> Pendunculate Oak </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9214 </ID>
+     <title> Silver Maple (middle) </title>
+     <color2D> 26112 </color2D>
+     <color3D> 26112 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> Silver Maple </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9215 </ID>
+     <title> Silver Maple (young) </title>
+     <color2D> 26112 </color2D>
+     <color3D> 26112 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> Silver Maple </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9216 </ID>
+     <title> White Willow (middle) </title>
+     <color2D> 3381555 </color2D>
+     <color3D> 3381555 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> White Willow </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9217 </ID>
+     <title> Wild Cherry "Plena" (old) </title>
+     <color2D> 26112 </color2D>
+     <color3D> 26112 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> Wild Cherry </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9218 </ID>
+     <title> Wild Cherry "Plena" (middle) </title>
+     <color2D> 26112 </color2D>
+     <color3D> 26112 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> Wild Cherry </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9219 </ID>
+     <title> Wild Cherry "Plena" (young) </title>
+     <color2D> 26112 </color2D>
+     <color3D> 26112 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> Wild Cherry </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9220 </ID>
+     <title> Field Maple "Elegant" (young) </title>
+     <color2D> 26112 </color2D>
+     <color3D> 26112 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> Field Maple Elegant </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9221 </ID>
+     <title> Common Robinia (middle) </title>
+     <color2D> 32768 </color2D>
+     <color3D> 32768 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> Robinia / False Acacia </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9222 </ID>
+     <title> Common Robinia (young) </title>
+     <color2D> 32768 </color2D>
+     <color3D> 32768 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> Robinia / False Acacia </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9223 </ID>
+     <title> Swedish Whitebeam (young) </title>
+     <color2D> 26112 </color2D>
+     <color3D> 26112 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> Whitebeam </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9224 </ID>
+     <title> Hanging Birch (middle) </title>
+     <color2D> 39168 </color2D>
+     <color3D> 39168 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> Birch </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9225 </ID>
+     <title> Hanging Birch (young) </title>
+     <color2D> 39168 </color2D>
+     <color3D> 39168 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> Birch </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9226 </ID>
+     <title> Little Leaf Lime (middle) </title>
+     <color2D> 26112 </color2D>
+     <color3D> 26112 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> Little Leaf Lime </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9227 </ID>
+     <title> Little Leaf Lime (young) </title>
+     <color2D> 26112 </color2D>
+     <color3D> 26112 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> Little Leaf Lime </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9228 </ID>
+     <title> Sweet Chestnut/Maron (middle) </title>
+     <color2D> 3381555 </color2D>
+     <color3D> 3381555 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> Sweet Chestnut / Maron </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9229 </ID>
+     <title> Bluebell Tree (young) </title>
+     <color2D> 3381555 </color2D>
+     <color3D> 3381555 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> Bluebell Tree </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9230 </ID>
+     <title> Oak (middle) </title>
+     <color2D> 26112 </color2D>
+     <color3D> 26112 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> Oak </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9231 </ID>
+     <title> Oak (old) </title>
+     <color2D> 26112 </color2D>
+     <color3D> 26112 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> Oak </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9232 </ID>
+     <title> Pine Tree (young) </title>
+     <color2D> 42594616 </color2D>
+     <color3D> 42594616 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> Pine </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9233 </ID>
+     <title> American Gelditschie / Leather Sleeve Tree (middle) </title>
+     <color2D> 32768 </color2D>
+     <color3D> 32768 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> Gleditschie / Leather Sleeve Tree </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9234 </ID>
+     <title> Tree of Heaven (middle) </title>
+     <color2D> 39168 </color2D>
+     <color3D> 39168 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> Tree of Heaven </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9235 </ID>
+     <title> Quaking Aspen (middle) II </title>
+     <color2D> 32768 </color2D>
+     <color3D> 32768 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> Quaking Aspen </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9236 </ID>
+     <title> Persian Walnut (young) </title>
+     <color2D> 26112 </color2D>
+     <color3D> 26112 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> Walnut </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9237 </ID>
+     <title> Common Beech (young) </title>
+     <color2D> 52224 </color2D>
+     <color3D> 52224 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> Beech </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9238 </ID>
+     <title> Beech (old) </title>
+     <color2D> 52224 </color2D>
+     <color3D> 52224 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> Beech </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9239 </ID>
+     <title> Wild Fruit Tree (young) </title>
+     <color2D> 39168 </color2D>
+     <color3D> 39168 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> Wild Fruit Tree </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9240 </ID>
+     <title> Englisch Hawthorn "Paul's Scarlett" (young) </title>
+     <color2D> 3381555 </color2D>
+     <color3D> 3381555 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> Englisch Hawthorn </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9241 </ID>
+     <title> Japanese Pagoda Tree (middle) </title>
+     <color2D> 32768 </color2D>
+     <color3D> 32768 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> Japanese Pagoda Tree </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9242 </ID>
+     <title> Indian Bean Tree (young) </title>
+     <color2D> 39168 </color2D>
+     <color3D> 39168 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> Indian Bean Tree </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9243 </ID>
+     <title> Tulip Tree (middle) </title>
+     <color2D> 26112 </color2D>
+     <color3D> 26112 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> Tulip Tree </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9244 </ID>
+     <title> Willow Tree (middle) </title>
+     <color2D> 3381555 </color2D>
+     <color3D> 3381555 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> Willow Tree </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9245 </ID>
+     <title> Willow Tree (young) </title>
+     <color2D> 3381555 </color2D>
+     <color3D> 3381555 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> Willow Tree </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9246 </ID>
+     <title> Bird Cherry (young) </title>
+     <color2D> 32768 </color2D>
+     <color3D> 32768 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> Bird Cherry </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9247 </ID>
+     <title> Bird Cherry "Schloss Tiefurt" (middle) </title>
+     <color2D> 26163 </color2D>
+     <color3D> 26163 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> Bird Cherry </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 9248 </ID>
+     <title> Thuja (young) </title>
+     <color2D> 13056 </color2D>
+     <color3D> 13056 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> Thuja </group>
+  </SLD_element>
+</ENVI-MET_Datafile>

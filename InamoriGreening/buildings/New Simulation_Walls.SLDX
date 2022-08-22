@@ -1,0 +1,1090 @@
+<ENVI-MET_Datafile>
+<Header>
+<filetype>SLDX LEONARDO Speciallayer Definition file</filetype>
+<version>1</version>
+<revisiondate>2022/06/25 20:46:31</revisiondate>
+<remark>Automatically generated from Database</remark>
+<checksum>0</checksum>
+<encryptionlevel>0</encryptionlevel>
+</Header>
+  <SLD_element>
+     <ID> 7000 </ID>
+     <title> Passive wall - good insulation </title>
+     <color2D> 10737400 </color2D>
+     <color3D> 10737400 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00173 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> Misc </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 7001 </ID>
+     <title> Wall - no insulation </title>
+     <color2D> 128 </color2D>
+     <color3D> 128 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00220 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> Misc </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 7002 </ID>
+     <title> Wall - moderate insulation </title>
+     <color2D> 8421504 </color2D>
+     <color3D> 8421504 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00220 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> Misc </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 7003 </ID>
+     <title> Default Wall - moderate insulation </title>
+     <color2D> 8421504 </color2D>
+     <color3D> 8421504 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> Default </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 7004 </ID>
+     <title> Default Wall - moderate insulation </title>
+     <color2D> 8421504 </color2D>
+     <color3D> 8421504 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> Default </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 7005 </ID>
+     <title> PVC Sun Sail </title>
+     <color2D> 32768 </color2D>
+     <color3D> 32768 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> Misc Materials </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 7006 </ID>
+     <title> Concrete Wall, Photoactive </title>
+     <color2D> 3620074 </color2D>
+     <color3D> 3620074 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> Misc Materials </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 7007 </ID>
+     <title> Concrete Wall (heavy) </title>
+     <color2D> 7900566 </color2D>
+     <color3D> 7900566 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> Cement and Concrete </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 7008 </ID>
+     <title> Concrete wall (light weight) </title>
+     <color2D> 9208457 </color2D>
+     <color3D> 9208457 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> Cement and Concrete </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 7009 </ID>
+     <title> Concrete wall (hollow block) </title>
+     <color2D> 10787756 </color2D>
+     <color3D> 10787756 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> Cement and Concrete </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 7010 </ID>
+     <title> Concrete wall (Filled block) </title>
+     <color2D> 7042157 </color2D>
+     <color3D> 7042157 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> Cement and Concrete </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 7011 </ID>
+     <title> Concrete Wall (cast dense) </title>
+     <color2D> 5396563 </color2D>
+     <color3D> 5396563 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> Cement and Concrete </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 7012 </ID>
+     <title> Heat Protection Glass (one layered) </title>
+     <color2D> 16448250 </color2D>
+     <color3D> 16448250 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.72900 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> Glass </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 7013 </ID>
+     <title> Plexiglass (one layered) </title>
+     <color2D> 16775590 </color2D>
+     <color3D> 16775590 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.72900 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> Glass </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 7014 </ID>
+     <title> Foamed Glass (one layered) </title>
+     <color2D> 16698480 </color2D>
+     <color3D> 16698480 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.06400 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> Glass </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 7015 </ID>
+     <title> Clear Float glass (one layered) </title>
+     <color2D> 16368956 </color2D>
+     <color3D> 16368956 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.72900 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> Glass </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 7016 </ID>
+     <title> Glass Bricks (one layered) </title>
+     <color2D> 16075547 </color2D>
+     <color3D> 16075547 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.49000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> Glass </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 7017 </ID>
+     <title> Aluminium (single layer) </title>
+     <color2D> 12632256 </color2D>
+     <color3D> 12632256 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> Simple Metal </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 7018 </ID>
+     <title> Copper (single layer) </title>
+     <color2D> 21930 </color2D>
+     <color3D> 21930 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> Simple Metal </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 7019 </ID>
+     <title> Iron (single layer) </title>
+     <color2D> 10658466 </color2D>
+     <color3D> 10658466 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> Simple Metal </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 7020 </ID>
+     <title> Steel (one layer) </title>
+     <color2D> 12632256 </color2D>
+     <color3D> 12632256 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> Simple Metal </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 7021 </ID>
+     <title> Brick wall (aerated) </title>
+     <color2D> 4290016 </color2D>
+     <color3D> 4290016 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> Stones </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 7022 </ID>
+     <title> Brick wall (burned) </title>
+     <color2D> 3620074 </color2D>
+     <color3D> 3620074 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> Stones </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 7023 </ID>
+     <title> Brick wall (reinforced) </title>
+     <color2D> 598214 </color2D>
+     <color3D> 598214 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> Stones </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 7024 </ID>
+     <title> Roofing: Tile </title>
+     <color2D> 3834776 </color2D>
+     <color3D> 3834776 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> Roofing </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 7025 </ID>
+     <title> Roofing: Terracotta </title>
+     <color2D> 3376577 </color2D>
+     <color3D> 3376577 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> Roofing </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 7026 </ID>
+     <title> Heat protection glass (one air layer) </title>
+     <color2D> 16448250 </color2D>
+     <color3D> 16448250 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.81000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> Glass </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 7027 </ID>
+     <title> WetRoof </title>
+     <color2D> 16744576 </color2D>
+     <color3D> 16744576 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> Cement and Concrete </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 7028 </ID>
+     <title> Shading Plexiglass </title>
+     <color2D> 12615808 </color2D>
+     <color3D> 12615808 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.36000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> Glass </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 7029 </ID>
+     <title> Concrete slab (hollow block, default) </title>
+     <color2D> 10787756 </color2D>
+     <color3D> 10787756 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> - Legacy |Cement and Concrete </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 7030 </ID>
+     <title> Passive wall - good insulation </title>
+     <color2D> 10737400 </color2D>
+     <color3D> 10737400 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00173 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> - Legacy |Misc </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 7031 </ID>
+     <title> Wall - no insulation </title>
+     <color2D> 128 </color2D>
+     <color3D> 128 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00220 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> - Legacy |Misc </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 7032 </ID>
+     <title> Wall - moderate insulation </title>
+     <color2D> 8421504 </color2D>
+     <color3D> 8421504 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00220 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> - Legacy |Misc </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 7033 </ID>
+     <title> Default Wall - moderate insulation </title>
+     <color2D> 8421504 </color2D>
+     <color3D> 8421504 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> - Legacy |Default </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 7034 </ID>
+     <title> Default Wall - moderate insulation </title>
+     <color2D> 8421504 </color2D>
+     <color3D> 8421504 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> - Legacy |Default </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 7035 </ID>
+     <title> PVC Sun Sail </title>
+     <color2D> 32768 </color2D>
+     <color3D> 32768 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> - Legacy |Misc Materials </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 7036 </ID>
+     <title> Concrete Wall, Photoactive </title>
+     <color2D> 3620074 </color2D>
+     <color3D> 3620074 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> - Legacy |Misc Materials </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 7037 </ID>
+     <title> Concrete Wall (heavy) </title>
+     <color2D> 7900566 </color2D>
+     <color3D> 7900566 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> - Legacy |Cement and Concrete </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 7038 </ID>
+     <title> Concrete wall (light weight) </title>
+     <color2D> 9208457 </color2D>
+     <color3D> 9208457 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> - Legacy |Cement and Concrete </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 7039 </ID>
+     <title> Concrete wall (hollow block) </title>
+     <color2D> 10787756 </color2D>
+     <color3D> 10787756 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> - Legacy |Cement and Concrete </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 7040 </ID>
+     <title> Concrete wall (Filled block) </title>
+     <color2D> 7042157 </color2D>
+     <color3D> 7042157 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> - Legacy |Cement and Concrete </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 7041 </ID>
+     <title> Concrete Wall (cast dense) </title>
+     <color2D> 5396563 </color2D>
+     <color3D> 5396563 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> - Legacy |Cement and Concrete </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 7042 </ID>
+     <title> Heat Protection Glass (one layered) </title>
+     <color2D> 16448250 </color2D>
+     <color3D> 16448250 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.72900 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> - Legacy |Glass </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 7043 </ID>
+     <title> Plexiglass (one layered) </title>
+     <color2D> 16775590 </color2D>
+     <color3D> 16775590 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.72900 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> - Legacy |Glass </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 7044 </ID>
+     <title> Foamed Glass (one layered) </title>
+     <color2D> 16698480 </color2D>
+     <color3D> 16698480 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.06400 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> - Legacy |Glass </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 7045 </ID>
+     <title> Clear Float glass (one layered) </title>
+     <color2D> 16368956 </color2D>
+     <color3D> 16368956 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.72900 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> - Legacy |Glass </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 7046 </ID>
+     <title> Glass Bricks (one layered) </title>
+     <color2D> 16075547 </color2D>
+     <color3D> 16075547 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.49000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> - Legacy |Glass </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 7047 </ID>
+     <title> Aluminium (single layer) </title>
+     <color2D> 12632256 </color2D>
+     <color3D> 12632256 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> - Legacy |Simple Metal </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 7048 </ID>
+     <title> Copper (single layer) </title>
+     <color2D> 21930 </color2D>
+     <color3D> 21930 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> - Legacy |Simple Metal </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 7049 </ID>
+     <title> Iron (single layer) </title>
+     <color2D> 10658466 </color2D>
+     <color3D> 10658466 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> - Legacy |Simple Metal </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 7050 </ID>
+     <title> Steel (one layer) </title>
+     <color2D> 12632256 </color2D>
+     <color3D> 12632256 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> - Legacy |Simple Metal </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 7051 </ID>
+     <title> Brick wall (aerated) </title>
+     <color2D> 4290016 </color2D>
+     <color3D> 4290016 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> - Legacy |Stones </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 7052 </ID>
+     <title> Brick wall (burned) </title>
+     <color2D> 3620074 </color2D>
+     <color3D> 3620074 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> - Legacy |Stones </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 7053 </ID>
+     <title> Brick wall (reinforced) </title>
+     <color2D> 598214 </color2D>
+     <color3D> 598214 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> - Legacy |Stones </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 7054 </ID>
+     <title> Roofing: Tile </title>
+     <color2D> 3834776 </color2D>
+     <color3D> 3834776 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> - Legacy |Roofing </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 7055 </ID>
+     <title> Roofing: Terracotta </title>
+     <color2D> 3376577 </color2D>
+     <color3D> 3376577 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> - Legacy |Roofing </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 7056 </ID>
+     <title> Heat protection glass (one air layer) </title>
+     <color2D> 16448250 </color2D>
+     <color3D> 16448250 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.81000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> - Legacy |Glass </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 7057 </ID>
+     <title> WetRoof </title>
+     <color2D> 16744576 </color2D>
+     <color3D> 16744576 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> - Legacy |Cement and Concrete </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 7058 </ID>
+     <title> Shading Plexiglass </title>
+     <color2D> 12615808 </color2D>
+     <color3D> 12615808 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.36000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> - Legacy |Glass </group>
+  </SLD_element>
+  <SLD_element>
+     <ID> 7059 </ID>
+     <title> Concrete slab (hollow block, default) </title>
+     <color2D> 10787756 </color2D>
+     <color3D> 10787756 </color3D>
+     <style2D> 0 </style2D>
+     <style3D> 0 </style3D>
+     <outlinecolor> 0 </outlinecolor>
+     <outlinecolor3D> 0 </outlinecolor3D>
+     <outlinewidth> 1 </outlinewidth>
+     <outlinewidth3D> 1 </outlinewidth3D>
+     <drawoutline> 1 </drawoutline>
+     <drawoutline3D> 0 </drawoutline3D>
+     <outlinestyle> 0 </outlinestyle>
+     <transparency3D> 0.00000 </transparency3D>
+     <default_visible> 1 </default_visible>
+     <group> - Legacy |Cement and Concrete </group>
+  </SLD_element>
+</ENVI-MET_Datafile>
