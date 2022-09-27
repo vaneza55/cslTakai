@@ -1,0 +1,64 @@
+<ENVI-MET_Datafile>
+<Header>
+<filetype>SIMX</filetype>
+<version>2</version>
+<revisiondate>06.09.2022 23:06:25</revisiondate>
+<remark></remark>
+<checksum>0</checksum>
+<encryptionlevel>0</encryptionlevel>
+</Header>
+  <mainData>
+     <simName> New Simulation </simName>
+     <INXFile> NewArea.INX </INXFile>
+     <filebaseName> New Simulation </filebaseName>
+     <outDir> C:\Users\masaichitakai\Desktop\enviRepositoryLocal\NijoSim4 </outDir>
+     <startDate> 01.08.2022 </startDate>
+     <startTime> 09:00:00 </startTime>
+     <simDuration> 3 </simDuration>
+     <windSpeed> 2.00000 </windSpeed>
+     <windDir> 135.00000 </windDir>
+     <z0> 0.00100 </z0>
+     <T_H> 293.00000 </T_H>
+     <Q_H> 8.00000 </Q_H>
+     <Q_2m> 50.00000 </Q_2m>
+  </mainData>
+  <FullForcing>
+     <fileName> B.FOX </fileName>
+     <forceT> 1 </forceT>
+     <forceQ> 1 </forceQ>
+     <forceWind> 1 </forceWind>
+     <forcePrecip> 0 </forcePrecip>
+     <forceRadClouds> 1 </forceRadClouds>
+     <interpolationMethod> linear </interpolationMethod>
+     <nudging> 1 </nudging>
+     <nudgingFactor> 1.00000 </nudgingFactor>
+     <minFlowsteps> 30 </minFlowsteps>
+     <limitWind2500> 0 </limitWind2500>
+     <maxWind2500> 999.00000 </maxWind2500>
+     <z_0> 0.10000 </z_0>
+  </FullForcing>
+  <SolarAdjust>
+     <SWFactor> 1.00000 </SWFactor>
+  </SolarAdjust>
+  <Building>
+     <indoorTemp> 298.14999 </indoorTemp>
+     <indoorConst> 0 </indoorConst>
+     <airConHeat> 0 </airConHeat>
+  </Building>
+  <RadScheme>
+     <IVSHeightAngle_HiRes> 45 </IVSHeightAngle_HiRes>
+     <IVSAziAngle_HiRes> 45 </IVSAziAngle_HiRes>
+     <IVSHeightAngle_LoRes> 45 </IVSHeightAngle_LoRes>
+     <IVSAziAngle_LoRes> 45 </IVSAziAngle_LoRes>
+     <AdvCanopyRadTransfer> 1 </AdvCanopyRadTransfer>
+     <ViewFacUpdateInterval> 10 </ViewFacUpdateInterval>
+     <RayTraceStepWidthHighRes> 0.25000 </RayTraceStepWidthHighRes>
+     <RayTraceStepWidthLowRes> 0.50000 </RayTraceStepWidthLowRes>
+     <RadiationHeightBoundary> -1.00000 </RadiationHeightBoundary>
+     <MRTCalcMethod> 1 </MRTCalcMethod>
+     <MRTProjFac> 2 </MRTProjFac>
+  </RadScheme>
+  <Parallel>
+     <CPUdemand> 1 </CPUdemand>
+  </Parallel>
+</ENVI-MET_Datafile>

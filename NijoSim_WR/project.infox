@@ -1,0 +1,15 @@
+<ENVI-MET_Datafile>
+<Header>
+<filetype>infoX ENVI-met Project Description File</filetype>
+<version>1371192</version>
+<revisiondate>2022/09/06 22:45:53</revisiondate>
+<remark></remark>
+<checksum>0</checksum>
+<encryptionlevel>50803576</encryptionlevel>
+</Header>
+  <project_description>
+     <name> NijoSim5 </name>
+     <description> Imported Project </description>
+     <useProjectDB> 0 </useProjectDB>
+  </project_description>
+</ENVI-MET_Datafile>

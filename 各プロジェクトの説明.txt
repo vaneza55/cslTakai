@@ -6,10 +6,8 @@ RadiationAndWindWR　：　風と放射量が保水性舗装に与える影響�
 RadiationAndWndAsphalt　：　上のアスファルト版
 
 
-16Buildings　：　16個のビル群での保水性舗装の影響
-
 Inamori~~　：　稲森会館をモデル化し竹、緑化壁、保水性舗装の冷却効果の違い
 
 DryAndWetBlock　：　現実の実験との比較。乾いたブロックと濡れたブロックで実験
 
-NijoSim　：　二条近くの都市（中規模）をモデル化
+NijoSim　：　二条近くの都市（中規模）をモデル化。それぞれアスファルト舗装、保水性舗装、遮熱性舗装

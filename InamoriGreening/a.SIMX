@@ -2,7 +2,7 @@
 <Header>
 <filetype>SIMX</filetype>
 <version>2</version>
-<revisiondate>25.06.2022 20:31:30</revisiondate>
+<revisiondate>13.09.2022 23:35:34</revisiondate>
 <remark></remark>
 <checksum>0</checksum>
 <encryptionlevel>0</encryptionlevel>
@@ -11,7 +11,7 @@
      <simName> New Simulation </simName>
      <INXFile> NewArea.INX </INXFile>
      <filebaseName> New Simulation </filebaseName>
-     <outDir> C:\Users\masaichitakai\Desktop\envSim3\greening1 </outDir>
+     <outDir> C:\Users\masaichitakai\Desktop\cslTakai\InamoriGreening </outDir>
      <startDate> 05.08.2021 </startDate>
      <startTime> 09:00:00 </startTime>
      <simDuration> 2 </simDuration>
@@ -31,6 +31,27 @@
      <middleClouds> 0.00000 </middleClouds>
      <highClouds> 0.00000 </highClouds>
   </Clouds>
+  <SolarAdjust>
+     <SWFactor> 1.00000 </SWFactor>
+  </SolarAdjust>
+  <Building>
+     <indoorTemp> 298.14999 </indoorTemp>
+     <indoorConst> 0 </indoorConst>
+     <airConHeat> 0 </airConHeat>
+  </Building>
+  <RadScheme>
+     <IVSHeightAngle_HiRes> 45 </IVSHeightAngle_HiRes>
+     <IVSAziAngle_HiRes> 45 </IVSAziAngle_HiRes>
+     <IVSHeightAngle_LoRes> 45 </IVSHeightAngle_LoRes>
+     <IVSAziAngle_LoRes> 45 </IVSAziAngle_LoRes>
+     <AdvCanopyRadTransfer> 1 </AdvCanopyRadTransfer>
+     <ViewFacUpdateInterval> 10 </ViewFacUpdateInterval>
+     <RayTraceStepWidthHighRes> 0.25000 </RayTraceStepWidthHighRes>
+     <RayTraceStepWidthLowRes> 0.50000 </RayTraceStepWidthLowRes>
+     <RadiationHeightBoundary> -1.00000 </RadiationHeightBoundary>
+     <MRTCalcMethod> 1 </MRTCalcMethod>
+     <MRTProjFac> 2 </MRTProjFac>
+  </RadScheme>
   <Parallel>
      <CPUdemand> 1 </CPUdemand>
   </Parallel>

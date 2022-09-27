@@ -1,8 +1,8 @@
 <ENVI-MET_Datafile>
 <Header>
 <filetype>infoX ENVI-met Project Description File</filetype>
-<version>1372832</version>
-<revisiondate>2022/06/25 18:08:10</revisiondate>
+<version>1371184</version>
+<revisiondate>2022/09/13 22:36:34</revisiondate>
 <remark></remark>
 <checksum>0</checksum>
 <encryptionlevel>0</encryptionlevel>
@@ -10,6 +10,6 @@
   <project_description>
      <name> tree1 </name>
      <description> Imported Project </description>
-     <useProjectDB> 1 </useProjectDB>
+     <useProjectDB> 0 </useProjectDB>
   </project_description>
 </ENVI-MET_Datafile>
