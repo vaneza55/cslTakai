@@ -13,18 +13,18 @@ import pandas as pd
 from io import StringIO
                                     
    
-from envimet import svgimage
+# from envimet import svgimage
 
 # just for easier access convert sys var (Variant) to Python var
 # source=datafile.value                             
-source =  'C:\Users\masaichitakai\Desktop\cslTakai\RadiationAndWindWR\surface\New Simulation_FX_2021-08-06_10.00.00.EDX'          
+source =  '/Users/takaimasaichi/Desktop/cslTakai/RadiationAndWindWR/surface/New Simulation_FX_2021-08-06_10.00.00.EDT'          
                         
                                                 
 print ('File= '+source)                
 print ('----------------------------------------------------')
                          
 print('>> Reading '+source+' into Python Pandas...')          
-df = pd.read_csv(source, sep=",", parse_dates=['DateTime'], index_col=['DateTime'])     
+df = pd.read_csv(source, sep=",", parse_dates=['DateTime'], index_col=['DateTime'],encoding='ISO-8859-1')     
                 
 # print out the basic info of the dataframe 
 print (df.info())    
