@@ -15,10 +15,11 @@ data = numpy.fromfile('surface/New Simulation_FX_2021-08-06_10.00.00.EDT','<f4')
 
 cube = data.reshape((len(variable_names), nr_zdata, nr_ydata, nr_xdata))
 
-t = numpy.array(cube[8,0,:,:])
+t = numpy.array(cube[8,0,:,:]).T
 t[0,0]=100
 t[0,1]=100
 import matplotlib.pyplot as plt
 plt.imshow(t[:,:])
 plt.ylim(0,nr_ydata-1)
+plt.xlim(0,nr_xdata-1)
 plt.show()
